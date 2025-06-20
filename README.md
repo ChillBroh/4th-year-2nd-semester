@@ -3,9 +3,9 @@
 # 1. CTSE
 
 Assignment 1 : 
-Frontend: 
-Backend
+Frontend: https://github.com/ChillBroh/accessra-FE.git
+Backend : https://github.com/ChillBroh/Accessra-API.git
 
-Assignment 2 : 
+Assignment 2 : https://github.com/ChillBroh/NoteSage-LLM-Chatbot.git
 
 Assignment 3 : https://github.com/ChillBroh/Under-the-Sea-AR-VR-App-.git
